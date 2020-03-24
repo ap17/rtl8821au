@@ -1,4 +1,6 @@
-rtl8821au driver v5.2.6.2_23547.20170814_COEX20170206-6760
+rtl8821au
+( idVendor=0bda, idProduct=a811 )
+driver v5.2.6.2_23547.20170814_COEX20170206-6760
 
 origin : https://github.com/minjae/rtl8821au
 
