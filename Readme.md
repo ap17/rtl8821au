@@ -15,7 +15,7 @@ source "/drivers/net/wireless/realtek/rtl8821au/Kconfig"
 
 3.    into file ".../drivers/net/wireless/realtek/Makefile" insert line:
 
-obj-$(CONFIG_RTL8821CU) += rtl8821au/
+obj-$(CONFIG_RTL8821AU) += rtl8821au/
 
 4.    do : make menuconfig -> device drivers-> network device support -> wireless LAN -> select 8821au
 5.    do make.
